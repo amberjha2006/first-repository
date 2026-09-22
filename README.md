@@ -73,6 +73,16 @@
 
 ---
 
+## 🧠 LeetCode Dashboard
+
+<div align="center">
+
+<a href="https://leetcode.com/u/AmberJha/">
+  <img src="https://leetcard.jacoblin.cool/AmberJha?theme=dark&font=baloo&ext=heatmap" alt="AmberJha LeetCode Stats"/>
+</a>
+
+</div>
+
 # 🔥 Featured Projects
 
 ### 🏥 MediMate AI
